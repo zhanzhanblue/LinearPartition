@@ -3,9 +3,9 @@ Just look at the idea.md.
 Yeah, below is the same as it, but sometime images coded by base64 do not work for me. I don't know.
 
 
-# Q: 线性判别分析仅在线性可分数据上能获得理想结果, 试设计一个改进方法, 使其能较好地用于飞线性可分数据
+# Q: 线性判别分析仅在线性可分数据上能获得理想结果, 试设计一个改进方法, 使其能较好地用于非线性可分数据
 
-The same for "Linear discriminant analysis can only obtain ideal results on linearly separable data. Try to design an improved method to make it better used for flying linearly separable data"  ~~maybe translate from website, and I don't know its truth yeah~~ 
+The same for "Linear discriminant analysis can only obtain ideal results on linearly separable data. Try to design an improved method to make it better used for not linearly separable data"  ~~maybe translate from website, and I don't know its truth yeah~~ 
 
 ## Today I'd like to talk about another way for the problem above to resolve. So let's go to the point.
 
